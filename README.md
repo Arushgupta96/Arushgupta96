@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=22devesh&show_icons=true&locale=en" alt="arush" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22devesh&" alt="arush" /></p>
+<p><img align="center" src="https://github.com/Arushgupta96?tab=overview&from=2025-06-01&to=2025-06-30" alt="arush" /></p>
 
