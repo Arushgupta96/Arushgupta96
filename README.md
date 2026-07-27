@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arush Gupta</h1>
 
-<h3 align="center">Cyber Security Analyst | Malware Analysis | Digital Forensics | Network Security | Python Developer</h3>
+<h3 align="center">
+Cyber Security Analyst | Data Analyst | AI & Python Developer
+</h3>
 
 <p align="center">
-Passionate about Cyber Security, Malware Analysis, Digital Forensics, Network Security, and Security Automation using Python.
+Passionate about Cyber Security, Data Analytics, Artificial Intelligence, and Python Development. I enjoy building practical solutions that enhance security, automate workflows, and transform data into meaningful insights.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🔐 Aspiring Cyber Security Analyst with a strong interest in securing systems, analyzing malware, and automating security tasks using Python.
+🔐 Aspiring **Cyber Security Analyst** with hands-on experience in developing security-focused applications and performing malware analysis, digital forensics, and network security assessments.
 
-🎯 My goal is to build practical cybersecurity solutions and continuously improve my skills in ethical hacking, digital forensics, and threat detection.
+📊 Passionate about **Data Analytics** with experience in data processing, visualization, AI-powered applications, and extracting actionable insights from data.
+
+🤖 Interested in **Artificial Intelligence** and Retrieval-Augmented Generation (RAG) systems for building intelligent, context-aware applications.
+
+🚀 My goal is to contribute to organizations by solving real-world challenges through Cyber Security, Data Analytics, and AI-driven solutions.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Malware Analysis
 - Digital Forensics
@@ -24,14 +30,17 @@ Passionate about Cyber Security, Malware Analysis, Digital Forensics, Network Se
 - SOC Operations
 - Incident Response
 - Threat Hunting
-- Web Application Security
-- Python Security Automation
+- Data Analytics
+- Machine Learning Fundamentals
+- Python Automation
+- Generative AI & RAG Applications
 
 ---
 
-## 💻 Technical Skills
+# 💻 Technical Skills
 
-### Programming Languages
+## Programming Languages
+
 - Python
 - Java
 - C
@@ -39,25 +48,49 @@ Passionate about Cyber Security, Malware Analysis, Digital Forensics, Network Se
 - JavaScript
 - SQL
 
-### Web Technologies
-- HTML
-- CSS
-- Bootstrap
-- Flask
+## Data Analytics
 
-### Databases
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+## Artificial Intelligence
+
+- Retrieval-Augmented Generation (RAG)
+- OpenAI API
+- GPT-5
+- OpenAI Whisper
+- Semantic Search
+- Embeddings
+
+## Web Technologies
+
+- Flask
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+## Databases
+
 - SQLite
 - MySQL
 
-### Cyber Security
+## Cyber Security
+
 - Network Security
 - Malware Analysis
 - Digital Forensics
 - Vulnerability Assessment
-- Penetration Testing (Beginner)
 - Security Auditing
+- Penetration Testing (Beginner)
 
-### Tools
+## Tools
+
 - Kali Linux
 - Nmap
 - Wireshark
@@ -65,9 +98,9 @@ Passionate about Cyber Security, Malware Analysis, Digital Forensics, Network Se
 - OWASP ZAP
 - Git
 - GitHub
+- VS Code
 - VMware
 - VirtualBox
-- VS Code
 
 ---
 
@@ -76,79 +109,144 @@ Passionate about Cyber Security, Malware Analysis, Digital Forensics, Network Se
 ## 🔐 Cyber Security Toolkit ⭐
 
 ### Technologies
+
 Python • Flask • HTML • CSS • JavaScript • Bootstrap • SQLite • Nmap
 
-### Description
+### Project Overview
 
-Developed a web-based Cyber Security Toolkit that integrates multiple security assessment utilities into a single platform.
+Developed a comprehensive web-based Cyber Security Toolkit that integrates multiple security assessment utilities into a single platform for performing common security analysis tasks.
 
-### Features
+### Key Features
 
 - Port Scanner
 - WHOIS Lookup
 - DNS Lookup
-- SSL Certificate Checker
+- SSL Certificate Analysis
 - Security Header Analysis
 - Password Strength Checker
 - Hash Generator (MD5, SHA1, SHA256)
 - Ping Utility
 - Traceroute
-- PDF Report Generation
 - User Authentication
 - Scan History Dashboard
+- Automated PDF Report Generation
+
+---
+
+## 🤖 RAG-Based AI Teaching Assistant
+
+### Technologies
+
+Python • Pandas • OpenAI Whisper • GPT-5 • OpenAI API • RAG
+
+### Project Overview
+
+Developed an AI-powered Teaching Assistant using the Retrieval-Augmented Generation (RAG) framework to provide accurate, context-aware responses from educational content.
+
+### Key Features
+
+- Transcribed educational videos using OpenAI Whisper
+- Generated text embeddings for semantic understanding
+- Implemented Retrieval-Augmented Generation (RAG)
+- Performed semantic search over educational content
+- Delivered accurate, context-aware responses using GPT-5
+- Built a scalable AI learning assistant
 
 ---
 
 ## 🌍 Trivago Website Clone
 
 ### Technologies
-HTML • CSS • JavaScript • Bootstrap
 
-### Description
+HTML5 • CSS3 • JavaScript • Bootstrap
 
-Developed a responsive travel and hotel booking website inspired by Trivago. The application includes destination search, hotel listings, responsive layouts, navigation menus, and interactive user interface components to provide a seamless hotel browsing experience.
+### Project Overview
+
+Designed and developed a responsive travel and hotel booking website inspired by Trivago with a modern UI and responsive design.
+
+### Features
+
+- Responsive Design
+- Hotel Listings
+- Destination Search
+- Interactive User Interface
+- Mobile-Friendly Layout
 
 ---
 
 ## 🏧 ATM Machine Management System
 
 ### Technologies
+
 Java
 
-### Description
+### Project Overview
 
-Built a console-based ATM Management System using Java that simulates real-world banking operations. The project supports secure user authentication, balance enquiry, cash withdrawal, cash deposit, fund transfer, PIN management, and transaction history using object-oriented programming concepts.
+Developed a console-based ATM Management System that simulates real-world banking operations using Java and Object-Oriented Programming principles.
+
+### Features
+
+- Secure Login
+- Balance Enquiry
+- Cash Deposit
+- Cash Withdrawal
+- Fund Transfer
+- PIN Management
+- Transaction History
 
 ---
 
 ## 💱 Currency Converter
 
 ### Technologies
+
 Python
 
-### Description
+### Project Overview
 
-Developed a Python-based Currency Converter application capable of converting values between multiple international currencies. The project demonstrates modular programming, input validation, and efficient calculation logic.
+Developed a Python-based Currency Converter capable of converting values between multiple international currencies while demonstrating modular programming and efficient calculation logic.
 
----
+### Features
 
-## 📜 Certifications
-
-- Introduction to Cyber Security Essentials
-- Cloud Computing – NPTEL (IIT Kharagpur)
-- Cisco Networking
-- Ethical Hacking Essentials
-- Digital Forensics Essentials
+- Currency Conversion
+- Input Validation
+- Error Handling
+- Modular Programming
 
 ---
 
-## 📫 Contact Me
+# 📜 Certifications
 
-📧 Email: guptaarush85@gmail.com
+- 🏅 Cloud Computing – NPTEL (IIT Kharagpur)
+- 🏅 The Ultimate Job Ready Data Science Course
+- 🏅 Introduction to Cyber Security Essentials
+- 🏅 Ethical Hacking Essentials
+- 🏅 Digital Forensics Essentials
+- 🏅 Cisco Networking
 
-💼 LinkedIn: https://www.linkedin.com/in/arushgupta96/
+---
 
-🌐 GitHub: https://github.com/Arushgupta96
+# 📊 Areas of Interest
+
+- Cyber Security
+- Malware Analysis
+- Digital Forensics
+- Network Security
+- Data Analytics
+- Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning
+- Python Automation
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** guptaarush85@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/arushgupta96/
+
+🌐 **GitHub:** https://github.com/Arushgupta96
 
 ---
 
