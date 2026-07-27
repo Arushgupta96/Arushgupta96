@@ -134,10 +134,11 @@ Developed a Python-based Currency Converter application capable of converting va
 
 ## 📜 Certifications
 
-- Google Cybersecurity (If Completed)
-- NPTEL
+- Introduction to Cyber Security Essentials
+- Cloud Computing – NPTEL (IIT Kharagpur)
 - Cisco Networking
-- TryHackMe (If Completed)
+- Ethical Hacking Essentials
+- Digital Forensics Essentials
 
 ---
 
